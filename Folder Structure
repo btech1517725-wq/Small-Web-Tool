@@ -1,0 +1,9 @@
+page-pulse/
+│── server.js
+│── package.json
+│── routes/
+│    └── audit.js
+│── public/
+│    ├── index.html
+│    ├── style.css
+│    └── script.js
