@@ -1,0 +1,21 @@
+# Page Pulse
+
+A web tool that audits any webpage.
+
+Features
+
+✔️ HTTP Status
+
+✔️ Response Time
+
+✔️ Title
+
+✔️ Meta Description
+
+✔️ H1 Count
+
+✔️ Images Missing ALT
+
+✔️ Approximate Word Count
+
+Built using Node.js, Express, Axios and Cheerio
